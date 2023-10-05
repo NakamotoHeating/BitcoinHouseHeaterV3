@@ -4,6 +4,7 @@ This Repo contains schemas and parts list of the BitcoinHouseHeater V3.
 
 ## Explainer Video
 [![Bitcoin Space Heater Build Video](https://img.youtube.com/vi/u7F-KU6IfxY/0.jpg?cache)](https://www.youtube.com/watch?v=u7F-KU6IfxY)
+
 https://www.youtube.com/watch?v=u7F-KU6IfxY
 
 ## Water System Schema
